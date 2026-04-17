@@ -1,0 +1,24 @@
+# Camera
+ro.camera.hfr.enable=1
+ro.camera.notify_nfc=1
+ro.camera.videoeis.enable=1
+
+# Display
+ro.display.screen_type=1
+ro.oplus.display.screenSizeCentimeter.primary=17.19
+ro.oplus.display.screenSizeInches.primary=6.77
+
+# NFC
+ro.oplus.nfc.current.support=true
+ro.oplus.nfc.frequency.support=true
+ro.oplus.nfc.tap_to_share_v2=true
+ro.oplus.nfc.tap_to_share_with_ios=true
+
+# SoC identity
+ro.soc.manufacturer=Mediatek
+ro.soc.model=MT6897
+
+# System
+ro.com.android.dataroaming=false
+ro.sys.reserve.integrate=true
+persist.sys.fuse.passthrough.enable=true

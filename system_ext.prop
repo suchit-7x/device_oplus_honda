@@ -1,0 +1,17 @@
+# Bluetooth
+persist.bluetooth.absvolume_support=true
+persist.bluetooth.disableabsvol=false
+persist.bluetooth.disableinbandringing=false
+
+# Radio
+persist.radio.hvolte.enable=1
+
+# Dalvik / Runtime
+dalvik.vm.dex2oat64.enabled=true
+dalvik.vm.ps-min-first-save-ms=5000
+
+# System
+persist.sys.fuse.passthrough.enable=true
+ro.com.android.dataroaming=false
+ro.config.isolated_compilation_enabled=true
+ro.support_one_handed_mode=true
